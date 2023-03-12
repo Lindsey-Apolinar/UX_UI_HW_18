@@ -1,0 +1,110 @@
+/*header*/
+
+.inline-block{
+    display:inline-block;
+    vertical-align:top;
+}
+
+.inline-block-nav{
+    display:inline-block;
+    vertical-align:top;
+    width: 20%;
+    text-align: center;
+    margin-left: 4%;
+    margin-top: 2%;
+    color: #944c50;
+    font-family: 'Montserrat', sans-serif;
+
+    
+}
+
+.logo{
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+}
+nav{
+    width: 72%;
+    padding: 1%;
+}
+
+
+.navigation{
+    background-color:#fff5ed;
+}
+/*hero section*/
+
+.heroimg{
+    height: 450px;
+    padding: 25px;
+    background-color:#fff5ed;
+}
+
+.content{
+    
+    width: 500px;
+    display: inline-block;
+}
+
+.about-me{
+    display: inline-block;
+    margin-left: 375px;
+    position: relative; top: -310px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    line-height: 2;
+    color: #944c50;
+}
+
+.bubble{
+    vertical-align: top;
+    display:inline-flex;
+    margin-left: -230px;
+    position:relative; top: -100px;
+    padding:0%;
+}
+
+/*footer section*/
+footer{
+    background-color: #dfc1b8;
+}
+
+.inline-block-footer-left{
+    display:inline-block;
+    vertical-align: middle;
+    background-color: #f1e2de;
+    margin: 2%;
+    padding: 3%;
+    font-family: 'Caveat Brush', cursive;
+    color:#dfc1b8
+}
+
+.inline-block-footer{
+    display:inline-block;
+    vertical-align:middle; 
+    text-align: center;
+    margin-left: 240px;
+    font-family: 'Caveat Brush', cursive;
+    color: #944c50;
+    line-height: 50px;
+}
+
+.email-buttons{
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+    word-spacing: 1em;
+}
+
+button{
+    background-color: #944c50;
+    color:#dfc1b8;
+    border-radius: 5px;
+    width: 100px;
+    padding:5px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.copyright{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
